@@ -1,0 +1,13 @@
+{
+  "name": "11ty-template",
+  "version": "1.0.0",
+  "description": "Basic file structure for Eleventy projects",
+  "main": ".eleventy.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "prettier": "2.3.0"
+  }
+}
